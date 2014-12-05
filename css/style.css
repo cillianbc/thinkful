@@ -1,0 +1,70 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color:#FFCC00;
+  margin:0;
+}
+header{
+  margin-top:15px;
+  background-image:url(https://ununsplash.imgix.net/photo-1415226620463-aedee27159c5?fit=crop&fm=jpg&h=800&q=75&w=1050);
+  background-size:cover;
+  height: 500px;
+  width:100%;
+  margin-bottom:0;
+
+}
+
+.me{
+  padding:2%;
+  text-align: center;
+  margin:0;
+  font-family: 'Della Respira', serif;
+  font-size:6em;
+  
+}
+
+.intro{
+  padding:2%;
+  text-align: center;
+  margin:0;
+  font-family: 'Della Respira', serif;
+  font-size:2em;
+  
+}
+section{
+  background-color:white;
+}
+section h2{
+  display: block;
+margin: auto;
+width: 40%;
+padding: 2%;
+font-family: 'Della Respira', serif;
+font-size: 2em;
+}
+section p{
+  display:block;
+  margin:0 auto;
+  font-family: 'Della Respira', serif;
+  width:40%;
+  padding-bottom:15px;
+}
+footer{
+  background-color:#474747;
+  margin:0;
+  padding:0;
+}
+p.social{
+  margin:0;
+  padding:0;
+}
+h3.question{
+  font-family: 'Della Respira', serif;
+  color:#FFCC00;
+  padding-top:15px;
+  padding-bottom:15px;
+  width:40%;
+  margin:0 auto;
+}
